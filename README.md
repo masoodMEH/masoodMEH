@@ -34,7 +34,7 @@
 #### Database Stack
 <p align="left">
     <img src="https://i.pinimg.com/564x/3a/1a/c2/3a1ac281bbb48c4b51de892285eab47d.jpg" alt="sqlserver" title="sqlserver" width="40" height="40"/>  
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>   
+    <img src="https://i.pinimg.com/736x/21/9e/3d/219e3d67b2e921aef76a1a9a5b18ea6f.jpg" alt="postgresql" title="postgresql" width="40" height="40"/>   
 </p>
 <!--
 #### Dev Stack
