@@ -20,7 +20,7 @@
   <img src="https://i.pinimg.com/736x/5e/b9/5e/5eb95eaf598d1007befaa78d038c2b2f.jpg" alt="Next.js" title="Next.js" width="40" height="40"/> 
   <img src="https://i.pinimg.com/736x/77/6f/d8/776fd8269417774ef8b29304781e5277.jpg" alt="React.js" title="React.js" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java11" title="java11" width="40" height="40"/>  
-  <img src="https://i.pinimg.com/564x/fd/0d/7c/fd0d7c81d9abb7b738391b65eadc3d98.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
+  <img src="https://i.pinimg.com/564x/ba/06/3e/ba063e5c8c82991408714d68332eb0ac.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
 </p>
 
 #### OS Stack
