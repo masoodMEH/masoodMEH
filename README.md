@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/19a0073a-36c0-4b00-a2e6-ffdccb9a17e9)<!-- Header Section -->
+<!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Masood Mohrekesh</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/masood-mohrekesh/" target="_blank" rel="noreferrer">masoodMEH</a> is a passionate Frontend Engineer from Iran, working on Frontend and Backend for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
