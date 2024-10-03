@@ -18,7 +18,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
   <img src="https://i.pinimg.com/736x/5e/b9/5e/5eb95eaf598d1007befaa78d038c2b2f.jpg" alt="Next.js" title="Next.js" width="40" height="40"/> 
-  <img src="https://i.pinimg.com/564x/a2/6b/c8/a26bc8ee8887491dd2f3f30f09399683.jpg" alt="React.js" title="React.js" width="40" height="40"/>  
+  <img src="https://i.pinimg.com/736x/77/6f/d8/776fd8269417774ef8b29304781e5277.jpg" alt="React.js" title="React.js" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java11" title="java11" width="40" height="40"/>  
   <img src="https://i.pinimg.com/564x/bd/e9/75/bde975558b82fd6c2cb9c8e2a15339fc.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
 </p>
