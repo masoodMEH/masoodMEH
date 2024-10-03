@@ -16,14 +16,20 @@
 
 #### Programming Language Stack
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
-<img src="https://i.pinimg.com/736x/5e/b9/5e/5eb95eaf598d1007befaa78d038c2b2f.jpg" alt="Next.js" title="Next.js" width="40" height="40"/> 
-<img src="https://i.pinimg.com/564x/a2/6b/c8/a26bc8ee8887491dd2f3f30f09399683.jpg" alt="React.js" title="React.js" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java11" title="java11" width="40" height="40"/>  
-<img src="https://i.pinimg.com/564x/bd/e9/75/bde975558b82fd6c2cb9c8e2a15339fc.jpg" alt="spring boot" title="spring boot" width="40" height="40"/> </p>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
+  <img src="https://i.pinimg.com/736x/5e/b9/5e/5eb95eaf598d1007befaa78d038c2b2f.jpg" alt="Next.js" title="Next.js" width="40" height="40"/> 
+  <img src="https://i.pinimg.com/564x/a2/6b/c8/a26bc8ee8887491dd2f3f30f09399683.jpg" alt="React.js" title="React.js" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java11" title="java11" width="40" height="40"/>  
+  <img src="https://i.pinimg.com/564x/bd/e9/75/bde975558b82fd6c2cb9c8e2a15339fc.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
+</p>
 
 #### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+<p align="left">
+  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>
+  <img src="https://i.pinimg.com/564x/21/40/c4/2140c461d0ae465c8c392ef43fd36016.jpg" alt="windows" title="windows" width="40" height="40"/> 
+  <img src="https://banner2.cleanpng.com/20180330/otq/avihpiggt.webp" alt="macOS" title="macOS" width="40" height="40"/>
+</p>
 
 #### Database Stack
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
