@@ -1,4 +1,4 @@
-<!-- Header Section -->
+![image](https://github.com/user-attachments/assets/19a0073a-36c0-4b00-a2e6-ffdccb9a17e9)<!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Masood Mohrekesh</font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/masood-mohrekesh/" target="_blank" rel="noreferrer">masoodMEH</a> is a passionate Frontend Engineer from Iran, working on Frontend and Backend for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
@@ -20,7 +20,7 @@
   <img src="https://i.pinimg.com/736x/5e/b9/5e/5eb95eaf598d1007befaa78d038c2b2f.jpg" alt="Next.js" title="Next.js" width="40" height="40"/> 
   <img src="https://i.pinimg.com/736x/77/6f/d8/776fd8269417774ef8b29304781e5277.jpg" alt="React.js" title="React.js" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java11" title="java11" width="40" height="40"/>  
-  <img src="https://i.pinimg.com/564x/bd/e9/75/bde975558b82fd6c2cb9c8e2a15339fc.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
+  <img src="https://i.pinimg.com/564x/ba/06/3e/ba063e5c8c82991408714d68332eb0ac.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
 </p>
 
 #### OS Stack
@@ -33,7 +33,7 @@
 
 #### Database Stack
 <p align="left">
-    <img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png](https://i.pinimg.com/564x/3a/1a/c2/3a1ac281bbb48c4b51de892285eab47d.jpg)" alt="sqlserver" title="sqlserver" width="40" height="40"/>  
+    <img src="https://i.pinimg.com/564x/3a/1a/c2/3a1ac281bbb48c4b51de892285eab47d.jpg" alt="sqlserver" title="sqlserver" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>   
 </p>
 <!--
