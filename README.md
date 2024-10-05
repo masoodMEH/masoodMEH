@@ -19,7 +19,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
   <img src="https://i.pinimg.com/736x/5e/b9/5e/5eb95eaf598d1007befaa78d038c2b2f.jpg" alt="Next.js" title="Next.js" width="40" height="40"/> 
   <img src="https://i.pinimg.com/736x/77/6f/d8/776fd8269417774ef8b29304781e5277.jpg" alt="React.js" title="React.js" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java11" title="java11" width="40" height="40"/>  
+  <img src="https://i.pinimg.com/564x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="java11" title="java11" width="40" height="40"/>  
   <img src="https://i.pinimg.com/564x/ba/06/3e/ba063e5c8c82991408714d68332eb0ac.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
 </p>
 
@@ -38,7 +38,11 @@
 </p>
 <!--
 #### Dev Stack
-<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
 -->
 
 #### Project Management Stack
