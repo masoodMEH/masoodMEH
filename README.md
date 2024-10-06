@@ -19,7 +19,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>
   <img src="https://i.pinimg.com/736x/5e/b9/5e/5eb95eaf598d1007befaa78d038c2b2f.jpg" alt="Next.js" title="Next.js" width="40" height="40"/> 
   <img src="https://i.pinimg.com/736x/77/6f/d8/776fd8269417774ef8b29304781e5277.jpg" alt="React.js" title="React.js" width="40" height="40"/>  
-  <img src="https://i.pinimg.com/564x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="java11" title="java11" width="40" height="40"/>  
+  <img src="https://i.pinimg.com/564x/ed/54/87/ed5487cdf75aa7ae06e257c2ea143833.jpg" alt="Dotnet" title="dotnet" width="40" height="40"/>  
   <img src="https://i.pinimg.com/564x/ba/06/3e/ba063e5c8c82991408714d68332eb0ac.jpg" alt="spring boot" title="spring boot" width="40" height="40"/>
 </p>
 
