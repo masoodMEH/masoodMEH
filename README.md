@@ -28,7 +28,6 @@
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>
   <img src="https://i.pinimg.com/564x/21/40/c4/2140c461d0ae465c8c392ef43fd36016.jpg" alt="windows" title="windows" width="40" height="40"/> 
-  <img src="https://banner2.cleanpng.com/20180330/otq/avihpiggt.webp" alt="macOS" title="macOS" width="40" height="40"/>
 </p>
 
 #### Database Stack
@@ -36,24 +35,14 @@
     <img src="https://i.pinimg.com/564x/3e/55/df/3e55dfb0980956b42cac768b740cdad6.jpg" alt="sqlserver" title="sqlserver" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>     
 </p>
-<!--
-#### Dev Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
--->
 
 #### Project Management Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
 
 #### Editor / IDE I ♥
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij"   title="intellij" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
 </p>
 
